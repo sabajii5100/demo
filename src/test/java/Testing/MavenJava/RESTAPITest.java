@@ -6,6 +6,8 @@ public class RESTAPITest {
 	@Test
 	public void Postjira() {
 		System.out.println("uuuuu");
+		System.out.println("u");
+		System.out.println("uuu");
 		
 	}
 	@Test
