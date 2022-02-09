@@ -41,4 +41,13 @@ public class AppiumTest {
 
 		
 	}
+	@Test
+	public void IOSApp3() {
+		System.out.println("rrrrr");
+		System.out.println("aaaa");
+		System.out.println("aaaa");
+		System.out.println("aaaa");
+
+		
+	}
 }
