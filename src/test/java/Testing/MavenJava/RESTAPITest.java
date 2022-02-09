@@ -13,6 +13,11 @@ public class RESTAPITest {
 	@Test
 	public void deleteTwitter() {
 		System.out.println("vvvvvv");
+		System.out.println("vvvvvv");
+		System.out.println("vvvvvv");
+		System.out.println("vvvvvv");
+		System.out.println("vvvvvv");
+		
 
 		
 	}

@@ -7,6 +7,10 @@ public class SeleniumTest {
 	@Test
 	public void BrowserAutomation() {
 		System.out.println("aaaa");
+		System.out.println("aaaa");
+		System.out.println("aaaa");
+		System.out.println("aaaa");
+		System.out.println("aaaa");
 
 		
 	}
@@ -14,6 +18,9 @@ public class SeleniumTest {
 	@Test
 	public void ElementsUI() {
 		System.out.println("bbbb");
+		System.out.println("aaaa");
+		System.out.println("aaaa");
+		System.out.println("aaaa");
 
 	}
     
